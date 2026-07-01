@@ -1,0 +1,14 @@
+body{
+ text-align:center;
+ font-family: Arial, Helvetica;    
+ background: yellow;
+}
+h1 {
+    color: purple;
+}
+h2 {
+    color: blue;
+}
+h3 {
+    color: red;
+}
